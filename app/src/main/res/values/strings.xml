@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Book Of Daniel</string>
+    <string name="full_name">Daniel Edwards</string>
+    <string name="description">Photographer</string>
+    <string name="presenting">Presenting</string>
+    <string name="city">Houston, TX</string>
+
+</resources>
